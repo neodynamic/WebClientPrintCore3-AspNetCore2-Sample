@@ -1,0 +1,1 @@
+# WebClientPrintCore3-AspNetCore2-Sample
